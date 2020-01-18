@@ -1,2 +1,6 @@
-# tensorflow_keras_color_images_denoiser
-Removes gaussian noise from colored images using an autoencoder. 
+# Denoising Autoencoder using Tensorflow Keras
+
+I will build an autoencoder to remove noises from colored images. 
+
+Libraries used: tensorflow, numpy, matplotlib, os
+
