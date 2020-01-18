@@ -6,5 +6,5 @@ Libraries used: tensorflow, numpy, matplotlib, cv2, os
 
 *processor.py has some shortcut functions for converting image data into pickles
 
-<img src='https://miro.medium.com/max/462/1*VLVLUR7sXlgoM8-4WBtKfA.jpeg'> </img>
+<img src='https://miro.medium.com/max/462/1*VLVLUR7sXlgoM8-4WBtKfA.jpeg'>
 
